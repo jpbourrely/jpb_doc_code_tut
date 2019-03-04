@@ -27,6 +27,9 @@ Guide
 
    help
    license
+   factorial
+   people
+
 
 Indices and tables
 ==================
