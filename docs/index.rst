@@ -3,8 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to jpb_doc_code_tut's documentation!
-============================================
+
+jpb_doc_code_tut's documentation!
+=================================
+
+.. image:: https://readthedocs.org/projects/jpb-doc-code-tut/badge/?version=latest
+   :target: https://jpb-doc-code-tut.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
 
 .. toctree::
    :maxdepth: 2
