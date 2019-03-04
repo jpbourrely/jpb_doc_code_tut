@@ -11,12 +11,22 @@ jpb_doc_code_tut's documentation!
    :target: https://jpb-doc-code-tut.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
+Another simple header
+=====================
 
+Here is some text explaining some very complicated stuff.::
+
+    print 'hello'
+    >> hello
+
+Guide
+^^^^^
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   help
+   license
 
 Indices and tables
 ==================
