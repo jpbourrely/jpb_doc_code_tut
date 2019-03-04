@@ -1,5 +1,5 @@
 # jpb_doc_code_tut
-
+```bash
 Inspired from: Sphinx & Read the Docs: https://www.youtube.com/watch?v=oJsUvBQyHBs
 
 $ mkdir jpb_doc_code_tut
@@ -80,4 +80,6 @@ $ git status
 $ git add .
 $ git commit -am "with link to modules documentation"
 $ git push origin master
-:
+
+
+$ make html
